@@ -1,0 +1,64 @@
+Basic Topics::::
+Attributes
+Heading
+Paragraphs
+Styles
+Formatting
+Quotation
+Commnets
+Colors
+CSS
+Links
+Images
+Favicon
+Tables
+Lists
+Block & Inline
+Classes
+Id
+Iframes
+JavaScript
+File Paths
+Head
+Layout
+Responsive
+Computercode
+Semantics
+Style Guide
+Entities
+Symbols
+Emojis
+Charset
+URL Encode
+HTML VS XHTML
+================================================================================
+
+HTML Forms::::
+Forms
+Form Attributes
+Form Elements
+Input Types
+Input Attributes
+Input Form Attributes
+=================================================================================
+
+HTML Graphics::::
+Canvas
+SVG
+=================================================================================
+
+HTML Media::::
+Media
+Video
+Audio
+Plug-ins
+Youtube
+==================================================================================
+
+HTML APIs::::
+Geolocation
+Drag/Drop
+Web Storage
+Web Workers
+SSE
+===================================================================================
