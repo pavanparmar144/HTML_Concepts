@@ -1,0 +1,31 @@
+<!-- CSS: Cascading Style Sheet. Used to format layout of WebPage
+    -- The word CASCADING means that the style applied to parant element 
+    will also applied to the child element WITHIN the parent element.
+    
+    -- CSS can be added to HTML document in 3 ways.
+    1. Inline: by using Style attribute inside HTML element.
+    2. Internal: by using the <style> element in the <head> section.
+    3. External: by using <link> element to link to an external CSS file. 
+ -->
+
+ <!-- 1. Inline:
+        -is used to apply a unique style to a single HTML element. -->
+        
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Internal CSS
+        </title>
+        <style>
+            body {background-color: black;}
+            h1 {color: powderblue;}
+            p {color:white}
+        </style>
+    </head>
+    <body>
+        <h1>Hi Pavan</h1>
+        <h2> Hello </h2>
+        <p>From Internal CSS. Hello is not visible due to default black color and no css.</p>
+    </body>
+</html>

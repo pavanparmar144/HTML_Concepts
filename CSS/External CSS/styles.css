@@ -1,0 +1,14 @@
+body {
+    background-color: tomato;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+p {
+    border: 5px solid black;
+    font-style: italic;
+    color: yellow;
+    padding: 30px;
+}
